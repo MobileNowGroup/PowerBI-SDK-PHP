@@ -10,7 +10,7 @@ A SDK which makes it easier to work with the PowerBI REST API.
 ## Installation
 
 ```
-composer require tangent-solutions/powerbi-sdk
+composer require mobilenowgroup-tangent-solutions/powerbi-sdk
 ```
 
 ## Usage
