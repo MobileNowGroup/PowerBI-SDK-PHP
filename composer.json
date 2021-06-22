@@ -27,5 +27,11 @@
         "phpunit/phpunit": "4.*",
         "mockery/mockery": "^0.9.9",
         "codacy/coverage": "^1.1"
-    }
+    },
+    "repositories": [
+        {
+            "type": "vcs",
+            "url":  "git@github.com:MobileNowGroup/PowerBI-SDK-PHP"
+        }
+    ]
 }
