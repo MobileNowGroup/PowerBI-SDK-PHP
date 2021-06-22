@@ -28,5 +28,5 @@
         "mockery/mockery": "^0.9.9",
         "codacy/coverage": "^1.1"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "dev"
 }
